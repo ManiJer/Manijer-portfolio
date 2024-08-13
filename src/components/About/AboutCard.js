@@ -11,11 +11,13 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Jericko B. Manimtim </span>
             from <span className="purple"> Amadeo, Cavite.</span>
             <br />
-            I am currently studying Bachelor of Science in Information Technology.
+            I am a Graduate of Bachelor of Science in Information Technology.
             <br />
             I am a Junior Web Developer using ReactJS.
             <br />
             I am also an aspiring Automation engineer and Quality Assurance engineer.
+            <br />
+            I am a UI/UX aspirant
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
