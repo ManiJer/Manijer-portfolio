@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/Manijer-portfolio/static/css/main.3e151fb0.css",
-    "main.js": "/Manijer-portfolio/static/js/main.553fd0a2.js",
+    "main.css": "/Manijer-portfolio/static/css/main.09d8875a.css",
+    "main.js": "/Manijer-portfolio/static/js/main.b7c4ee4c.js",
     "static/js/415.4d6acbeb.chunk.js": "/Manijer-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Manijer-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/rcnews.png": "/Manijer-portfolio/static/media/rcnews.f26f61f18b7b61e8be18.png",
-    "static/media/rFINALresumeJERICKO.pdf": "/Manijer-portfolio/static/media/rFINALresumeJERICKO.5d6310d7051139490734.pdf",
+    "static/media/1MANIMTIM_JERICKO_B..pdf": "/Manijer-portfolio/static/media/1MANIMTIM_JERICKO_B..9587123222eea92820a6.pdf",
+    "static/media/rcstudhandbook.png": "/Manijer-portfolio/static/media/rcstudhandbook.6951d02b467f06a50c4d.png",
+    "static/media/arc.png": "/Manijer-portfolio/static/media/arc.290539e9031f924d46d1.png",
+    "static/media/ecomm.png": "/Manijer-portfolio/static/media/ecomm.f6daa3a7220184fa46ac.png",
+    "static/media/rocind.png": "/Manijer-portfolio/static/media/rocind.5f80bcdd625473be418d.png",
     "static/media/home-bg.jpg": "/Manijer-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/rocport.png": "/Manijer-portfolio/static/media/rocport.e673aaa655b27568a9d1.png",
     "static/media/pre.svg": "/Manijer-portfolio/static/media/pre.d4812f51c8c80976eaab4c2b1897e6e0.svg",
     "index.html": "/Manijer-portfolio/index.html",
-    "main.3e151fb0.css.map": "/Manijer-portfolio/static/css/main.3e151fb0.css.map",
-    "main.553fd0a2.js.map": "/Manijer-portfolio/static/js/main.553fd0a2.js.map",
+    "main.09d8875a.css.map": "/Manijer-portfolio/static/css/main.09d8875a.css.map",
+    "main.b7c4ee4c.js.map": "/Manijer-portfolio/static/js/main.b7c4ee4c.js.map",
     "415.4d6acbeb.chunk.js.map": "/Manijer-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Manijer-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e151fb0.css",
-    "static/js/main.553fd0a2.js"
+    "static/css/main.09d8875a.css",
+    "static/js/main.b7c4ee4c.js"
   ]
 }
