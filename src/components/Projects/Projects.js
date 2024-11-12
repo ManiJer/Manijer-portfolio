@@ -8,6 +8,8 @@ import arc from "../../Assets/Projects/arc.png";
 import rocind from "../../Assets/Projects/rocind.png";
 import rocport from "../../Assets/Projects/rocport.png";
 import ecomm from "../../Assets/Projects/ecomm.png";
+import ksweb from "../../Assets/Projects/ksweddingwebsite.png";
+import ksfigma from "../../Assets/Projects/ksweddingfigma.png";
 
 function Projects() {
   return (
@@ -21,7 +23,42 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ksweb}
+              isBlog={false}
+              title="KS Wedding Invitation Website"
+              description="This is the wedding invitation for KS Wedding. Worked as the Main Developer of the website using Wix Studio"
+              ghLink="https://github.com/ManiJer"
+              demoLink="https://kimsean12282024.wixstudio.io/kswedding2024"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ksfigma}
+              isBlog={false}
+              title="KS Wedding Prototype"
+              description="This is the Figma design of the KS Wedding website. Worked the UI/UX design Lead of the project"
+              ghLink="https://github.com/ManiJer"
+              demoLink="https://www.figma.com/design/37yecnF2BnDkVa1tY7aw5E/Kim-%26-Sean?m=auto&t=yps1i87EoSZ27MsY-1"
+            />
+          </Col>
+
+          {/* <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={rcnews}
+              isBlog={false}
+              title="RCNews"
+              description="Welcome to RCNEWs, your go-to source for the latest and most comprehensive coverage of Rogationist College. RCNEWs brings you breaking news, in-depth reviews, and insightful articles on everything related to Rogationist College. Stay informed, connected, and engaged through our dynamic and informative platform."
+              ghLink="https://github.com/ManiJer"
+              demoLink="https://rogationist-student-news.netlify.app/"
+            />
+          </Col> */}
+        </Row>
+
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={rcstudhandbook}
               isBlog={false}
